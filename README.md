@@ -1,4 +1,4 @@
-# TTRC - Tierpsy Tracker Result Comprobation
+# TTRV- Tierpsy Tracker Result Verification
 
 **Process Description:**
 
